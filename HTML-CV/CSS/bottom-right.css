@@ -1,0 +1,18 @@
+.Bottom-right-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-right: 80px;
+}
+.exp{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    width: fit-content;
+    border-bottom-style: solid;
+    border-width: 5px; 
+    border-color: rgb(229, 195, 3);
+}
+.work-info{
+    font-size: 13px;
+}
