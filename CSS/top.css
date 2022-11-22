@@ -1,0 +1,19 @@
+.Top-info{
+    display: flex;
+}
+.photo,.pfp{
+    margin: 0px;
+    height: 250px;
+    width:250px;
+}
+.brief-info{
+    margin-left: 40px;
+    margin-right: 30px;
+}
+.profile{
+    width: 138px;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 5px; 
+    border-color: rgb(229, 195, 3);
+}
